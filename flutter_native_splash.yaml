@@ -1,0 +1,7 @@
+flutter_native_splash:
+  color: "#856437"
+  image: "assets/beefsteak.jpg"
+  
+  android_12: 
+    color: "#856437"
+    image: assets/beefsteak.jpg
